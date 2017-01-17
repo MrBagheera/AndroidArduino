@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android 4 Arduino</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="textBtnDTR">DTR - Data Terminal Ready</string>
+    <string name="textBtnRTS">RTS - Request To Send</string>
+</resources>
